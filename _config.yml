@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Pramesh Monteiro # your name (or website title) here
+logo: "/images/dp.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Science Intern with over 1 year of experience. Enthusiastic and skilled, my portfolio showcases diverse projects that demonstrate my passion and expertise in leveraging data for valuable insights and solutions. I possess a strong foundation in programming, statistical modeling, and data visualization, along with a commitment to continuous learning and innovation in the field of data science.
   <br><br>
-  Second description 
+  Current Certifications: Machine Learning by IBM, Data Science by ExcelR, Masters in Data Science by Nasscom 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/prameshmonteiro/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
